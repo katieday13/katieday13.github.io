@@ -7,4 +7,10 @@ Sorry, old joke about [signature warlording](https://www.netfunny.com/rhf/jokes/
 
 * [Markdown to Recruiter Friendly](https://github.com/katieday13/md2)
 * [Convenience Scripts](https://github.com/katieday13/convenience)
-* [k8e811 election analysis tools](https://k8e811.github.io)
+
+Things that might relate to me
+
+* [k8e811: analysis tools](https://k8e811.github.io)
+* [Bluesky](https://bsky.app/profile/kddk8s.bsky.social)
+* [Instagram](https://www.instagram.com/kddk8s/)
+* [LinkedIn](https://www.linkedin.com/in/hae4gohy/)
