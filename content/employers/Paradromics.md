@@ -1,3 +1,6 @@
++++
+title = 'Paradromics'
++++
 # Paradromics
 
 Making a sensor that picks up individual neurons for brain to speech and brain to motor control for ALS and quadriplegic patients.
